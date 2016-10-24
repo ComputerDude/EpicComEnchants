@@ -1,0 +1,8 @@
+name: EpicComEnchants
+version: 1.0-DEV
+main: com.gmail.justbru00.epic.cosmic.enchants.PluginMain
+
+commands:
+  command_here:
+    description: 
+    
